@@ -7,7 +7,8 @@ Bu repo Patika.dev adresinde Object Oriented Programming eğitimde yer alan öde
 Bu repo, uçuşların ve pilotların yönetimi için tasarlanmış bir sistemin kodlarını içermektedir. Sistem, aşağıdaki bileşenleri ve ilişkileri kapsayacak şekilde tasarlanmıştır.
 
 - **Hava yolu şirketleri uçuşları gerçekleştirir.**
-  - Her hava yolunun bir kimliği vardır.
+
+- Her hava yolunun bir kimliği vardır.
 
 - **Hava yolu şirketi, farklı tipteki uçaklara sahiptir.**
 
