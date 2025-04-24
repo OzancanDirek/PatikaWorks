@@ -72,11 +72,9 @@ Root'un sol kısmı:
 - 3'ün sağında 4, solunda ise 2 bulunur.
 
 **Binary Search Tree:**
-markdown
-Kopyala
-Düzenle
-    7
-   / \
+
+   7
+  / \
   5   8
  / \    \
 1   6    9
