@@ -36,3 +36,20 @@ Bu repo, bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek 
 - **Kemirgenler**: (Sıçanlar, kunduzlar vb.)
 
 Her grup, hayvanlar hakkında depolanan bazı ortak bilgilere (tür adı, ağırlığı, yaşı vb.) sahiptir. Ancak, her gruba özgü işlevler farklılık göstermektedir.
+
+
+# Film Satın Alma & Kiralama Sistemi
+
+Bu repo, çevrimiçi film kiralama ve satın alma uygulamasının sistem tasarımını içermektedir. Kullanıcılar, filmleri listeleyebilir, sıralayabilir ve abonelik alarak kredilerle film kiralayabilirler. Sistemde abonelik, kredi yönetimi ve film talep etme gibi işlevler bulunmaktadır.
+
+  - Uygulama, mevcut filmleri listeleyebilir ve kullanıcıların filmleri sıralamalarına olanak tanır.
+
+  - Kullanıcılar, uygulamaya abone olabilir. Abonelik için kullanıcılar kredi satın alırlar.
+
+  - Sadece abone olan kullanıcılar, aldıkları kredilerle film kiralayabilir.
+  - Kiralanan film için kredi bedeli kullanıcı hesabından düşülür.
+
+  - Hem normal kullanıcılar hem de aboneler film satın alabilirler.
+
+  - Eğer bir film mevcut değilse, kullanıcılar bu filmi talep edebilirler.
+
