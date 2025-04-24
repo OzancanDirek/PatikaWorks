@@ -71,15 +71,4 @@ Root'un sol kısmı:
 - 1'in solunda 0, sağında ise 3 bulunur.
 - 3'ün sağında 4, solunda ise 2 bulunur.
 
-**Binary Search Tree:**
-
-  7
-       / \
-      5   8
-     / \    \
-    1   6    9
-   / \
-  0   3
-     / \
-    2   4
 
