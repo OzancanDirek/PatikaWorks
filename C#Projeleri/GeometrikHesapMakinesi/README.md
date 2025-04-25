@@ -1,4 +1,4 @@
-# Şekil ve Alan Hesaplama Uygulaması
+GeometrikHesapMakinesi Uygulaması
 
 Bu proje, kullanıcının seçtiği geometrik şekil için kenar bilgilerini alıp, alan ve çevre hesaplamalarını yapabilen bir **C# Console Uygulaması**dır. Uygulama, farklı geometrik şekiller (Daire, Üçgen, Kare, Dikdörtgen vb.) için hesaplama yapmaktadır.
 
