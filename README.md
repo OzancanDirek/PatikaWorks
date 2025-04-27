@@ -2,8 +2,6 @@
 
 Bu repo, Kodluyoruz Başlangıç Seviyesi .Net Core Patikası C# Projeleri içermektedir. Bu projeler, temel C# bilgilerini geliştirmek için kullanılan pratik uygulamalardır. Projeler, kolay seviyeden başlayarak orta ve zor seviyeye kadar ilerler. Her proje, C# dilinde farklı konseptlerin öğrenilmesine yardımcı olacak şekilde tasarlanmıştır.
 
-Patika.dev Hesabım -> [https://www.patika.dev](https://academy.patika.dev/@ozandirek]
-
 ## Kolay Seviye Projeler
 
 ### 1. Ortalama Hesaplama
